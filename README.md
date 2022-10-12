@@ -19,9 +19,14 @@ We provide PyTorch implementations for both unpaired and paired image-to-image t
 ```
 
 MRI data in folder 'trainA' and 'testA'
+
 CT data in folder 'trainB' and 'testB'
 
 For requirements installing type the command `pip install -r requirements.txt`.
+
+
+
+
 
 The code was written by [Jun-Yan Zhu](https://github.com/junyanz) and [Taesung Park](https://github.com/taesungp), and supported by [Tongzhou Wang](https://github.com/SsnL).
 
